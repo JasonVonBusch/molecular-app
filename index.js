@@ -34,9 +34,10 @@ brokerNode2.createService({
     actions: {
         listProducts(ctx) {
             return [
-                {name: "Apples",  price: 5},
-                {name: "Oranges", price: 3},
-                {name: "Bananas", price: 2}
+                {name: "Apples",      price: 5},
+                {name: "Oranges",     price: 3},
+                {name: "Bananas",     price: 2},
+                {name: "Watermelons", price: 4},
             ];
         }
     },
