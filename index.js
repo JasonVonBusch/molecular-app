@@ -38,6 +38,7 @@ brokerNode2.createService({
                 {name: "Oranges",     price: 3},
                 {name: "Bananas",     price: 2},
                 {name: "Watermelons", price: 4},
+                {name: "Berries",     price: 2},
             ];
         }
     },
